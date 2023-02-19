@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907035570755",
+    "project_id": "messageverifier",
+    "storage_bucket": "messageverifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907035570755:android:987e5d7208c0387d251af6",
+        "android_client_info": {
+          "package_name": "com.example.network_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907035570755-jv5sffrb88vc90hfva3da49c435paumq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktclMFaHth8mCVqCgBpnmVW2no6XFLCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907035570755-jv5sffrb88vc90hfva3da49c435paumq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
